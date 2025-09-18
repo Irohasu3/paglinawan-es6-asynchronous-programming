@@ -1,0 +1,39 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+  background: #fafafa;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #222;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin: 4px 0;
+}
+
+/* Highlight students older than 21 */
+strong {
+  color: red;
+}
+
+/* Relationship section */
+#output p {
+  margin: 6px 0;
+}
